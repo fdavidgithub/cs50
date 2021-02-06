@@ -8,4 +8,4 @@
 [ ] Must use at least one sound.
 [ ] Should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than Ivy’s Hardest Game. As such, your project should probably use a few dozen puzzle pieces overall.
 
-[More about what to do](https://cs50.harvard.edu/x/2020/psets/0/scratch/)
+[More about what to do](https://cs50.harvard.edu/x/2021/psets/0/scratch/)
